@@ -1,0 +1,274 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    justify-content:space-between;
+    align-items: center;
+    height:55px;
+    width: 1270px;
+    background-color: #0F1111;
+    color:white;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+   
+
+}
+.navlogo{
+    
+
+    height:50px;
+    width:115px;
+}
+.logo{
+    
+    background-image: url("media/logoo.png");
+    background-size: cover;
+    height: 50px;
+    width:115px;
+     
+    
+} 
+.border{
+    
+    border:1px solid transparent ;
+
+}
+.border:hover{
+    border:1px solid #ffffff;
+}
+.small{
+    font-size:0.78rem;
+    margin-left: 5px;
+    text-align: center;
+}
+.big{
+    font-size: larger;
+    margin-left:5px;
+    text-align: center;
+}
+.addicon{
+    display: flex;
+    align-items: center;
+    
+}
+.navaddress{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    height: 50px;
+    width: 85px;
+    border:1px solid transparent;
+}
+.border2:hover{
+    border:1px solid white;
+}
+.search{
+    height:32px;
+    width:550px;
+    
+}
+.searchicon{
+    
+ display:flex;
+ justify-content: center;
+ align-items: center;
+    
+    
+    background-color: rgb(249, 168, 16);
+    border-top-right-radius:5%;
+    border-bottom-right-radius:5%;
+    height: 37px;
+    width:42px;
+}
+.navsearch{
+    
+    display:flex;
+    align-items:center;
+    border:2px solid transparent;
+
+}
+.border3:hover{
+    border:2px solid rgb(240, 160, 12);
+
+}
+.options{
+    
+    border-radius:5%;
+    height: 38px;
+    width:50px;
+
+}
+.account{
+    background-color: #0F1111;
+    border: none;
+
+}
+span{
+   font-size:0.7rem ;
+
+}
+
+.navsecond{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.navsignin{
+    height:42px;
+    width: 113px;
+    border:1px solid transparent;
+    
+}
+.border4:hover{
+
+    border:1px solid white;
+}
+.returnn{
+    font-size: 0.75rem;
+}
+.return{
+    height:42px;
+    width: 80px;
+    align-items: center;
+    border:1px solid transparent;
+    
+}
+.border5:hover{
+    border:1px solid white;
+}
+.carttext{
+    font: weight 700%;
+    
+}
+.carticon{
+    font-size: 32px;
+}
+.cart{
+    display: flex;
+    align-items:center;
+    width:65px;
+    height: 43px;
+    margin-right: 8px;
+    
+    border:1px solid transparent;
+}
+.border6:hover{
+    border:1px solid white;
+}
+.lowernav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    height:40px;
+    width:1270px;
+    background-color: rgb(40, 56, 53);
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.anchorr{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height:40px;
+    width: 800px;
+    margin-right:0px ;
+}
+.quote{
+    margin-right: 15px;
+}
+.all{
+    height: 38px;
+    border: 1px solid transparent;
+}
+.border7:hover{
+    border: 1px solid white;
+
+}
+
+.hero{
+    background-image: url("media/hero.jpg");
+    background-size: cover;
+    height:280px;
+    display: flex;
+    align-items:end;
+    
+}
+.message{
+    
+    margin-left: 100px;
+    background-color: white;
+    color:black;
+    height:22px;
+    width:80%;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-weight :700px;
+    margin-bottom: 20px;
+}
+.box{
+    height:350px;
+    width:23%;
+    
+    background-color: #ffffff;
+}
+.shop{
+    height:400px;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: #ffc0cb;
+    
+}
+.boximg1{
+    margin-left: 6px;
+    height:300px;
+    width: 275px;
+    background-size: cover;
+}
+.boximg2{
+    margin-left: 6px;
+
+    height:300px;
+    width: 275px;
+    background-size: cover;
+}
+.boximg3{
+    margin-left: 6px;
+    height:300px;
+    width: 275px;
+    background-size: cover;
+}
+.boximg4{
+    margin-left: 6px;
+    height:300px;
+    width: 275px;
+    background-size:cover;
+}
+footer{
+    margin-top: 10px;
+}
+.panel1{
+    background-color:#37475a ;
+    color:white;
+    height:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+
+}
+
+
+
+
+
+
